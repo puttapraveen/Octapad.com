@@ -19,14 +19,14 @@
 .sd1{
     flex: 1;
     height: 80px;
-    background-color: blue;
+    background-color: black;
     border-radius: 20px;
 }
 
 .sd2{
     flex: 1;
     height: 80px;
-    background-color:lawngreen;
+    background-color:black;
     border-radius: 20px;
 
 }
@@ -35,25 +35,25 @@
     border-radius: 20px;
 
     height: 80px;
-    background-color: orange;
+    background-color: black;
 }
 .sd4{
     border-radius: 20px;
     flex: 1;
     height: 80px;
-    background-color: purple;
+    background-color: black;
 }
 .sd5{
     flex: 1;
     border-radius: 20px;
     height: 80px;
-    background-color: aqua;
+    background-color: black;
 }
 .sd6{
     flex: 1;
         border-radius: 20px;
 height: 80px;
-    background-color: saddlebrown;
+    background-color: black;
 }
 .foot{
     margin-top: 80px;
