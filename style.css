@@ -7,43 +7,54 @@
 }
 .main{
     width: 100%;
-    height: 50vh;
+    height: 100%;
 }
 .sounds{
-    height:100vh;
     width: 50%;
-    background-color:black;
-    display: flex;   
-    align-items: flex-end; 
+    background-color:rgb(59, 33, 33)6, 30, 30);
+    display: grid;
+    grid-template-columns: repeat(3,auto);   
+     
 }
 .sd1{
     flex: 1;
-    height: 50px;
+    height: 80px;
     background-color: blue;
+    border-radius: 20px;
 }
 
 .sd2{
     flex: 1;
-    height: 50px;
+    height: 80px;
     background-color:lawngreen;
+    border-radius: 20px;
+
 }
 .sd3{
     flex: 1;
-    height: 50px;
+    border-radius: 20px;
+
+    height: 80px;
     background-color: orange;
 }
 .sd4{
+    border-radius: 20px;
     flex: 1;
-    height: 50px;
+    height: 80px;
     background-color: purple;
 }
 .sd5{
     flex: 1;
-    height: 50px;
+    border-radius: 20px;
+    height: 80px;
     background-color: aqua;
 }
 .sd6{
     flex: 1;
-    height: 50px;
+        border-radius: 20px;
+height: 80px;
     background-color: saddlebrown;
+}
+.foot{
+    margin-top: 80px;
 }
