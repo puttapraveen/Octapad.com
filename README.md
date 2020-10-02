@@ -1,2 +1,2 @@
 # Octapad.com
-octapad sounds using javascript
+Octapad Sounds using JavaScript
